@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217520205058",
+    "project_id": "fir-series-5107b",
+    "storage_bucket": "fir-series-5107b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217520205058:android:443ac8f2f69c1efbc2a61b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZOnJHvqihTjZhRO23uFoRTxOBZI02q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217520205058:android:1df71d382a4a8cb1c2a61b",
+        "android_client_info": {
+          "package_name": "com.grocery_app.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZOnJHvqihTjZhRO23uFoRTxOBZI02q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
